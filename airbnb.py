@@ -10,7 +10,6 @@ pd.set_option('display.max_columns', None)
 
 def streamlit_config():
     # page configuration
-    #page_icon_url = 'https://raw.githubusercontent.com/gopiashokan/Airbnb-Analysis/main/airbnb_logo.png'
     st.set_page_config(page_title='Airbnb',
                       # page_icon=page_icon_url, layout="wide"
                       )
